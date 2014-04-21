@@ -1,0 +1,15 @@
+Magic-file-extensions==0.2
+RBTools==0.5.7
+argcomplete==0.7.0
+bitarray==0.8.1
+elasticsearch==1.0.0
+ipython==1.2.1
+numpy==1.8.0
+pybloomfilter==1.0
+pybloomfiltermmap==0.3.14
+requests==2.2.1
+simplejson==3.3.3
+urllib3==1.8
+vboxapi==1.0
+virtualenv==1.11.4
+wsgiref==0.1.2
