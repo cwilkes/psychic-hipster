@@ -1,0 +1,9 @@
+20
+8.0 12.0
+lambda e: [(2,1),] if e[0] and e[1] and random.random() < 0.80 else []
+lambda e: [(3,1),(4,0)] if e[0] or e[1] and random.random() < 0.90 else []
+lambda e: [(4,1),] if e[1] and e[2] and random.random() < 0.50 else []
+lambda e: [(7,1), (8,1), (9,1), (10,1)] if e[0] and e[1] and e[2] and e[3] and e[4] and random.random() < 0.95 else [(7,0), (8,0)]
+lambda e: [(8,0),] if not e[5] and not e[6] and random.random() < 0.95 else []
+lambda e: [(15,0), (16,1)] if (e[7] or e[8]) and (e[9] or e[10]) and random.random() < 0.50 else [(15,1), (16,0)]
+lambda e: [(17,1)] if (e[7] or e[8]) and (e[9] or e[10]) and random.random() < 0.90 else [(18,1)]
