@@ -3,7 +3,7 @@ RBTools==0.5.7
 argcomplete==0.7.0
 bitarray==0.8.1
 elasticsearch==1.0.0
-ipython==1.2.1
+ipython==7.16.3
 numpy==1.8.0
 pybloomfilter==1.0
 pybloomfiltermmap==0.3.14
